@@ -6,5 +6,5 @@ Recibe una oración como string.
 Indica la posición de la letra con la cual empieza nuestro subtexto (la parte que vamos a “recortar”).
 Indicar la posición de la letra con la cual termina nuestro subtexto.
 Imprime el subtexto.
- 
-https://static.platzi.com/media/user_upload/APL-Java-8cb6dc51-2e21-42ac-b012-197b778b65f8.jpg
+ ![image](https://user-images.githubusercontent.com/96605273/189567101-a2620ac7-f127-459b-a381-11b9a8ad891c.png)
+
