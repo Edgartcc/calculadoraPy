@@ -1,11 +1,7 @@
-valor1 = 7
-valor2 = 4
+#Extraer un substring con Python
 
-resultadoS= valor1 + valor2
-resultadoR = valor1 - valor2
-resultadoM = valor1 * valor2
-resultadoD = valor1 / valor2
-#Método por formato
-
-#Método Tradicional
-print("La suma es:" ,resultadoS, "la resta es: " ,resultadoR," la multiplicacion es: ",resultadoM, "la Division es: ",resultadoD)
+frase = 'Tengo muchisima hambre'
+inicial = 6
+final = 15
+palabra = frase[inicial:final]
+print(palabra)
